@@ -74,6 +74,18 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
        "images": ["https://cdn.mhnse.com/news/photo/202509/456319_576905_1351.jpg"],
        "videos": ["https://www.youtube.com/watch?v=pI4cJFiP5gI"]
      },
+
+     labels[1]: {
+       "texts": ["김다미는 마녀에서 잔인합니다."],
+       "images": ["https://cdn.mhnse.com/news/photo/202509/456319_576905_1351.jpg"],
+       "videos": ["https://www.youtube.com/watch?v=pI4cJFiP5gI"]
+     },
+
+     labels[2]: {
+       "texts": ["김다미는 마녀에서 잔인합니다."],
+       "images": ["https://cdn.mhnse.com/news/photo/202509/456319_576905_1351.jpg"],
+       "videos": ["https://www.youtube.com/watch?v=pI4cJFiP5gI"]
+     },
 }
 
 # ======================
