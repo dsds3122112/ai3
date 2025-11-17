@@ -70,7 +70,7 @@ st.markdown("---")
 CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
 
      labels[0]: {
-       "texts": ["김다미는 마녀에서 잔인합니다."],
+       "texts": ["박보영 멜로무비에서 예쁩니다."],
        "images": ["https://cdn.mhnse.com/news/photo/202509/456319_576905_1351.jpg"],
        "videos": ["https://www.youtube.com/watch?v=pI4cJFiP5gI"]
      },
@@ -82,7 +82,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
      },
 
      labels[2]: {
-       "texts": ["김다미는 마녀에서 잔인합니다."],
+       "texts": ["설윤은 그냥 예쁩니다."],
        "images": ["https://cdn.mhnse.com/news/photo/202509/456319_576905_1351.jpg"],
        "videos": ["https://www.youtube.com/watch?v=pI4cJFiP5gI"]
      },
