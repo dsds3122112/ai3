@@ -70,27 +70,27 @@ st.markdown("---")
 CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
 
      labels[0]: {
-       "texts": ["김다미는 마녀에서 잔인합니다."],
+       "texts": ["김다미는 드라마에서 여신입니다."],
        "images": ["https://cdn.mhnse.com/news/photo/202509/456319_576905_1351.jpg"],
        "videos": ["https://www.youtube.com/watch?v=pI4cJFiP5gI"]
      },
 
      labels[1]: {
        "texts": ["박보영은 멜로무비에서 귀엽습니다."],
-       "images": ["https://cdn.mhnse.com/news/photo/202509/456319_576905_1351.jpg"],
-       "videos": ["https://www.youtube.com/watch?v=pI4cJFiP5gI"]
+       "images": ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDu7iC-Pf9zZybbSqQvB6Fbqfv1txCluc7klbG801WCpTA2QOoA9Dd1pJRTyThf6gDtmXl2fvdz43C5lwigTGEqR631R_ErXTXdPjU5Jo&s=10"],
+       "videos": ["https://www.youtube.com/watch?v=Pydm4YpX9CM"]
      },
 
      labels[2]: {
        "texts": ["설윤은 그냥 예쁩니다."],
-       "images": ["https://cdn.mhnse.com/news/photo/202509/456319_576905_1351.jpg"],
-       "videos": ["https://www.youtube.com/watch?v=pI4cJFiP5gI"]
+       "images": ["https://i.namu.wiki/i/iLWjR76poI348JmVKW1WS7o0iD5Zl_f9gymJZrafABXUIB4HGPyxGK2doKqWsdc8Q7bg-_TwdTVI6iKKYwZvgQ.webp"],
+       "videos": ["https://www.youtube.com/watch?v=P5ixLSzrqQ8&list=RDP5ixLSzrqQ8&start_radio=1"]
      },
 
     labels[3]: {
        "texts": ["아현은 노래를 잘 부릅니다."],
-       "images": ["https://cdn.mhnse.com/news/photo/202509/456319_576905_1351.jpg"],
-       "videos": ["https://www.youtube.com/watch?v=pI4cJFiP5gI"]
+       "images": ["https://i.namu.wiki/i/RavcEB7MZf8VwyzfnBvbOMy3kAhCik7afw5vKCUncPNWN-dFVgeueD5GNYqpAjr1D2ZBUjhRYeYqcNqNkjU9WQ.webp"],
+       "videos": ["https://www.youtube.com/watch?v=jap9rSZds7U&list=RDjap9rSZds7U&start_radio=1"]
      },
 }
 
